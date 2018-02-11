@@ -1,0 +1,8 @@
+cd 'C:\Users\Schizophrenia\Desktop\jeans.the.great.2018.final@gmail.com\github_online\javascript'
+git init
+git add .
+git commit -m "11 feb"
+git config --global user.email "jeans.the.great.2018.final@gmail.com"
+git config --global user.name "jeansthegreat2018final"
+git remote add origin https://github.com/jeansthegreat2018final/javascript.git
+git push origin master
